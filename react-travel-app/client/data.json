@@ -1,0 +1,16 @@
+{   
+    "id" : 0,
+    "title" : "Lofoten Islands",
+    "address": {
+        "line": "House 45",
+        "town" : "Flakstad",
+        "region": "Lofoten",
+        "country": "Norway",
+        "coords": [13.615140, 68.148995]
+    },
+    "photo" : "https://www.fjordtravel.no/wp-content/uploads/2019/11/Lofoten-Islands-by-Tomasz-Furmanek-Visit-Norway.jpg",
+    "website": "https://www.fjordtravel.no",
+    "description" : "Amazing Lofoten Islands",
+    "tags" : ["nature", "hiking", "mountains"]
+}
+
