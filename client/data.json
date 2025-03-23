@@ -1,0 +1,15 @@
+{
+    "id" : 0,
+    "title" : "Lofoten Islands",
+    "address" : {
+        "line" : "House 45",
+        "town" : "Flakstad",
+        "region" : "Lofoten", 
+        "country" : "Norway",
+        "coords" : [13.615, 68.148]
+    },
+    "photo" : "https://res.cloudinary.com/gofjords-com/images/c_scale,w_800,h_449/f_auto,q_auto/v1708624807/Destinations/Lofoten/Reine/Reine-Lofoten-300820-photo-Ina-Cristine-Helljesen/Reine-Lofoten-300820-photo-Ina-Cristine-Helljesen.jpg?_i=AA",
+    "website" : "https://res.cloudinary.com",
+    "description": "Amazing Lofoten Island",
+    "tags" : ["nature", "hiking" ,  "mountain"]
+}
